@@ -1,0 +1,15 @@
+<view class='body'>    <!--设置倒计时格式-->
+  <text class='time1'>距期末考</text>
+  <text class='text1'>{{qgdjs_jo.day}}</text>
+  <text class='time1'>天</text>
+  <text class='text1'>{{qgdjs_jo.hour}}</text>
+  <text class='time1'>时</text>
+  <text class='text1'>{{qgdjs_jo.min}}</text>
+  <text class='time1'>分</text>
+  <text class='text1'>{{qgdjs_jo.sec}}</text>
+  <text class='time1'>秒</text>
+</view>
+
+<view>
+<button bindtap="seetable" id='0'>点击查看考表</button>
+</view>

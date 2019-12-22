@@ -1,0 +1,14 @@
+<!--pages/getSubject/getSubject.wxml-->
+
+<view class='content'>
+
+  <view class='btn'>
+
+    <button bindtap="seeSubject" id='0'>点击查看课表</button>
+
+  </view>
+
+</view>
+<view> 
+<image src="../../images/a.jpg">  </image> 
+</view>
